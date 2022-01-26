@@ -4,8 +4,12 @@
 
 I'm a developer. I've done plenty of coding on all sides of the stack and outside of it.
 
-<a href="https://blog.stormhub.io"><img src="https://img.icons8.com/20/blog" /> I have a blog.</a>
+<a href="https://blog.stormhub.io">I have a blog.</a>
 
-<a href="https://github.com/StormFireFox1?tab=repositories&q=&type=&language=go"><img src="https://img.icons8.com/20/golang" /> I like Go a lot.</a>
+<a href="https://github.com/StormFireFox1?tab=repositories&q=&type=&language=go">I like Go.</a>
 
-<a href="https://github.com/acmucsd/tech-stack"><img src="https://img.icons8.com/20/linux" /> I'm good with Linux, too.</a>
+<a href="https://github.com/StormFireFox1?tab=repositories&q=&type=&language=rust">I like Rust, too!</a>
+
+<a href="https://github.com/StormFireFox1?tab=repositories&q=&type=&language=typescript">I also tolerate TypeScript.</a>
+
+<a href="https://github.com/acmucsd/tech-stack">I'm really good with Linux, though.</a>
