@@ -4,7 +4,7 @@
 
 I'm a developer. I've done plenty of coding on all sides of the stack and outside of it.
 
-<a href="https://blog.stormhub.io">I have a blog.</a>
+<a href="https://matei.gard.us/articles">I have a blog.</a>
 
 <a href="https://github.com/StormFireFox1?tab=repositories&q=&type=&language=go">I like Go.</a>
 
